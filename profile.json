@@ -1,0 +1,7 @@
+﻿{
+  "Name": "盾之勇者做桶录",
+  "Author": "Larry",
+  "TimeLimit": 2,
+  "MemoryLimit":256,
+  "StdRun": ["/home/larryytr/work/oj/problem/src/std"]
+}
